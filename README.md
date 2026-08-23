@@ -14,6 +14,13 @@
 
 ---
 
+## PSID: 26124
+### Title: AI-Powered Mobile Urban Intelligence Platform Using Public Transport Fleet
+
+**Objective**: Build a system to transform buses into *mobile AI-powered urban sensing units*. Cameras already installed on buses can continuously capture the environment while the bus follows its normal route. AI models running directly on the bus can analyse video streams, identify relevant events and send only important metadata or alerts to a centralized urban intelligence platform.
+
+---
+
 ## PSID: 26156
 ### Title: Universal Log Pre-processing Framework
 
