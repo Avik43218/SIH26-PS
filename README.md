@@ -8,6 +8,13 @@
 
 ---
 
+## PSID: 26073
+### Title: AI/ML Based Intelligent Anomaly Detection for Automatic Weather Stations (AWS)
+
+**Objective**: Build an intelligent, edge-integrated anomaly detection, root-cause diagnosis, explainable AI (XAI), and self-healing system engineered specifically for Automatic Weather Stations (AWS). By operating strictly on three core meteorological parameters—Temperature (°C), Atmospheric Pressure (hPa), and Relative Humidity (%)—the system identifies complex sensor malfunctions, transmission noise, calibration drift, and environmental anomalies in real time.
+
+---
+
 ## PSID: 26104
 ### Title: AI-Powered Real-Time Detection and Prevention of Voice Cloning Impersonation Attacks
 
