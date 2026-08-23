@@ -1,5 +1,12 @@
 # Selected Problem Statements for SIH 2026
 
+## PSID: 26047
+### Title: Patient Case-Taking Software
+
+**Objective**: Develop a software solution that assists healthcare professionals in efficiently capturing and organizing patient case histories in a structured manner.
+
+---
+
 ## PSID: 26066
 ### Title: Subsurface Ocean Temperature Reconstruction
 
