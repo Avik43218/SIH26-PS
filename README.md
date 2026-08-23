@@ -1,5 +1,13 @@
 # Selected Problem Statements for SIH 2026
 
+
+## PSID: 26003
+### Title: AI-Powered Cognitive & Memory Assistance Platform
+
+**Objective**: Develop an AI-powered cognitive gaming and memory assistance platform designed specifically for elderly dementia patients in NER. The system provides multilingual voice-assisted interaction, culturally familiar themes, dynamic AI difficulty adaptation, caregiver monitoring dashboards, and robust offline synchronization for remote environments.
+
+---
+
 ## PSID: 26047
 ### Title: Patient Case-Taking Software
 
@@ -11,6 +19,20 @@
 ### Title: Subsurface Ocean Temperature Reconstruction
 
 **Objective**: Build an AI model that takes 2D satellite surface maps and predicts a 3D block of ocean temperature across 15 depth levels (0m to 1000m) for the North Indian Ocean.
+
+---
+
+## PSID: 26073
+### Title: AI/ML Based Intelligent Anomaly Detection for Automatic Weather Stations (AWS)
+
+**Objective**: Build an intelligent, edge-integrated anomaly detection, root-cause diagnosis, explainable AI (XAI), and self-healing system engineered specifically for Automatic Weather Stations (AWS). By operating strictly on three core meteorological parameters—Temperature (°C), Atmospheric Pressure (hPa), and Relative Humidity (%)—the system identifies complex sensor malfunctions, transmission noise, calibration drift, and environmental anomalies in real time.
+
+---
+
+## PSID: 26104
+### Title: AI-Powered Real-Time Detection and Prevention of Voice Cloning Impersonation Attacks
+
+**Objective**: Build a system that flags fake/cloned voices *during* the call, in real time — before fraud happens.
 
 ---
 
