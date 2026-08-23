@@ -63,3 +63,10 @@
 **Objective**: Build an AI-driven software platform that turns the basic, existing IP cameras into an intelligent surveillance network, by extracting actionable intelligence in real-time using heavy-hitting Computer Vision such as Facial Recognition Systems (FRS) or Automatic Number Plate Recognition (ANPR).
 
 ---
+
+## PSID: 26188
+### Title: AI-Based Fake Identity and Document Screening System
+
+**Objective**: Build an AI-powered document verification system that acts like an automated digital forensic officer at border security checkpoints, scanning physical or digital travel documents (passports, visas, IDs), checking for digital and physical alterations, parsing MRZ/text, and verifying the traveler's live face against the document photo within seconds.
+
+---
