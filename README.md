@@ -29,13 +29,6 @@
 
 ---
 
-## PSID: 26159
-### Title: Email TLS/STARTTLS Security Analyzer
-
-**Objective**: Build an AI-assisted tool that inspects PCAP captures of email server traffic (SMTP, IMAP, POP3) and automatically scores how secure the encryption setup is — without decrypting anything.
-
----
-
 ## PSID: 26187
 ### Title: Intelligent Border Video Analytics Platform
 
