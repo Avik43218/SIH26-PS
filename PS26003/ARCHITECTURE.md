@@ -18,7 +18,7 @@ To minimize cloud computing costs and handle unreliable networks in the North Ea
 
 ## 3. Backend & Cloud Infrastructure
 * **API Gateway:** Deploy Node.js or FastAPI to chew through highly concurrent, asynchronous data streams from edge devices[cite: 4]. 
-* **Database:** Hook into PostgreSQL to store structured patient logs and progress metrics, or utilize Firebase for rapid real-time dashboard updates[cite: 4].
+* **Database:** Hook into MongoDB to store structured patient logs and progress metrics, or utilize Firebase for rapid real-time dashboard updates[cite: 4].
 * **Caregiver Portal:** Build a web-based dashboard to visualize daily task completion rates and longitudinal cognitive charts for health workers and families[cite: 4].
 
 ## 4. AI Algorithm Implementations (The 3 Pillars)
@@ -62,7 +62,7 @@ Processes logs over rolling windows (7-day / 30-day) to flag cognitive drift[cit
 1. **Scaffold the Offline-First Edge App**
 
   - Build the UI with Flutter or React Native using high-contrast themes and oversized 48px+ touch targets.
-  - Set up local SQLite / IndexedDB schemas to cache sessions, regional audio, and gameplay locally before touching the network.
+  - Set up local SQLite schemas to cache sessions, regional audio, and gameplay locally before touching the network.
 
 2. **Build the Background Queue & Sync Engine**
 
@@ -71,7 +71,7 @@ Processes logs over rolling windows (7-day / 30-day) to flag cognitive drift[cit
   
 3. **Spin Up Cloud API & Caregiver Portal**
 
-  - Deploy FastAPI or Node.js to ingest batch streams and store structured longitudinal metrics in PostgreSQL/Firebase.
+  - Deploy FastAPI to ingest batch streams and store structured longitudinal metrics in MongoDB.
   - Build a caregiver web dashboard showing task completion, trends, and alert logs.
   
 4. **Integrate Dynamic Difficulty (Pillar 1)**
@@ -113,5 +113,5 @@ Sequence reproduction game where patterns illuminate with varying time delays an
 
 1. **Frontend**: Flutter (App), SolidJS
 2. **Backend**: FastAPI
-3. **Database**: SQLite (caching), PostgreSQL (metrics/stats)
+3. **Database**: SQLite (caching), MongoDB (metrics/stats)
 4. **Authentication**: Firebase
